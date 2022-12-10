@@ -123,6 +123,28 @@ const statues = [
         scale: 0.2,
         rotate: 115
     },
+    {
+        statueName: "Tượng Bác phòng 3 tầng 2",
+        path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/555309.glb?alt=media&token=c6c5636d-8ba8-45bb-839e-4bdaeb89679e",
+        point: {
+            x: 106.70683488494919,
+            y: 10.768338358215452,
+            z: 13.41,
+        },
+        scale: 1,
+        rotate: 90
+    },
+    {
+        statueName: "Bàn thờ",
+        path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/bt.glb?alt=media&token=cd008ae0-a484-431d-9f3e-e121dab0c1b4",
+        point: {
+            x: 106.70678692151299,
+            y: 10.76819737258987,
+            z: 13.41,
+        },
+        scale: 1,
+        rotate: 290
+    }
 
 ]
 
