@@ -94,8 +94,8 @@ const statues = [
         statueName: "Tủ phòng trưng bày 1",
         path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/guong_nuoc.glb?alt=media&token=500211b0-b879-4627-ad93-cc7c8b39f469",
         point: {
-            x: 106.7067413818439,
-            y: 10.768240170126692,
+            x: 106.70674132571506,
+            y: 10.76824029463685,
             z: 13.41,
         },
         scale: 0.03,
