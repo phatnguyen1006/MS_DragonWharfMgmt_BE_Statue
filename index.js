@@ -146,8 +146,8 @@ const statues = [
     statueName: "Tranh phòng ba AB",
     path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/PhongThuBa_AB.glb?alt=media&token=5ce0a69b-9ebd-4a1d-94c0-e143eaa97a1c",
     point: {
-      x: 106.70686752149157,
-      y: 10.768301326735294,
+      x: 106.7068643655205, 
+      y: 10.768299962262612,
       z: 16,
     },
     scale: 1,
@@ -201,8 +201,8 @@ const statues = [
     statueName: "Tranh phòng hai BC",
     path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/PhongThuHai_BC.glb?alt=media&token=aedee7f4-a1d4-4a93-ac41-b40eb3f20de3",
     point: {
-      x: 106.70683425128041,
-      y: 10.768282107218905,
+      x: 106.70683284805955, 
+      y: 10.768285219972874,
       z: 16,
     },
     scale: 1,
@@ -245,8 +245,8 @@ const statues = [
     statueName: "Tranh phòng nhất BC",
     path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/PhongThuNhatBC.glb?alt=media&token=01280220-407c-4109-a0c4-9e7858de0fa3",
     point: {
-      x: 106.70677567645735,
-      y: 10.768256782605917,
+      x: 106.70677427323649, 
+      y: 10.768259895359886,
       z: 15.5,
     },
     scale: 1,
