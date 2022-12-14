@@ -318,7 +318,61 @@ const statues = [
         scale: 1,
         rotate: 24
     },
-
+    {
+        statueName: "Tượng Bác Hồ",
+        path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/TuongBacHo.gltf?alt=media&token=7ab54f11-92e3-4536-919d-6235b22bc4f0",
+        point: {
+            x: 106.70682226415428,
+            y: 10.768194427639017,
+            z: 14.61,
+        },
+        scale: 0.005,
+        rotate: 150
+    },
+    {
+        statueName: "Flag VN 1",
+        path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/FlagVN.glb?alt=media&token=044cb1dd-559f-40eb-aa5c-bce13d3f0a70",
+        point: {
+            x: 106.70677359076801,
+            y: 10.76833308822116,
+            z: 20.57,
+        },
+        scale: 0.5,
+        rotate: 115
+    },
+    {
+        statueName: "Flag VN 2",
+        path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/FlagVN.glb?alt=media&token=044cb1dd-559f-40eb-aa5c-bce13d3f0a70",
+        point: {
+            x: 106.70683903665159,
+            y: 10.768358384016318,
+            z: 20.57,
+        },
+        scale: 0.5,
+        rotate: 115
+    },
+    {
+        statueName: "Xe kéo",
+        path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/Untitled2.glb?alt=media&token=9580aa1d-d6c1-4795-b217-aac836425e23",
+        point: {
+            x: 106.70694029000096,
+            y: 10.768295012767528,
+            z: 7.1,
+        },
+        scale: 0.5,
+        rotate: 115
+    },
+    {
+        statueName: "Xe hơi",
+        path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/xe.glb?alt=media&token=3747bd70-4c59-4127-a639-b7c345683182",
+        point: {
+            x: 106.70693318220435,
+            y: 10.768202788593655,
+            z: 7.1,
+        },
+        scale: 1,
+        rotate: 115
+    }
 ]
 
 app.get('/', (req,res) => {
