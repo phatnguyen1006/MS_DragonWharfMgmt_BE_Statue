@@ -48,7 +48,7 @@ const statues = [
     },
     {
         statueName: "tượng Bác Hồ ngồi",
-        path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/BacHo_ngoi.gltf?alt=media&token=d4db794e-bc21-4c8e-b230-a6fe0b9cb4f2",
+        path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/BacHo.glb?alt=media&token=1389877c-9b01-4fed-ba51-50e0f4db037e",
         point: {
             x: 106.70689572342282,
             y: 10.768303179718915, 
