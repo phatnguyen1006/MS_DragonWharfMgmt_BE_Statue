@@ -128,7 +128,7 @@ const statues = [
         path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/555309.glb?alt=media&token=c6c5636d-8ba8-45bb-839e-4bdaeb89679e",
         point: {
             x: 106.70683488494919,
-            y: 10.768338358215452,
+            y: 10.768333358215452,
             z: 13.41,
         },
         scale: 1,
@@ -241,7 +241,7 @@ const statues = [
             y: 10.768273392156269,
             z: 16,
         },
-        scale: 1,
+        scale: 0.82,
         rotate: 294
     },
     {
