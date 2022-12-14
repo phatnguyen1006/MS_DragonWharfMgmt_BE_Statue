@@ -58,8 +58,8 @@ const statues = [
         statueName: "tượng kháng chiến",
         path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/tuong_khang_chien_k.gltf?alt=media&token=62f49e96-3365-44f6-b577-c1f64e25b033",
         point: {
-            x: 106.70688365980618,
-            y: 10.768303171261888,
+            x: 106.70688225658532,
+            y: 10.768306284015857,
             z: 13.41,
         },
         scale: 0.2,
@@ -113,8 +113,8 @@ const statues = [
         statueName: "Mẹ anh hùng và các con",
         path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/me_anh_hung_k.gltf?alt=media&token=35f50f85-b7fd-473c-ab2c-c785ad4fcc8d",
         point: {
-            x: 106.7068909623204,
-            y: 10.768295170183208,
+            x: 106.70689348811796,
+            y: 10.768289567226063,
             z: 7.1,
         },
         scale: 0.2,
@@ -355,8 +355,8 @@ const statues = [
         statueName: "Xe kéo",
         path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/Untitled2.glb?alt=media&token=9580aa1d-d6c1-4795-b217-aac836425e23",
         point: {
-            x: 106.70694029000096,
-            y: 10.768295012767528,
+            x: 106.7069466019431,
+            y: 10.768297741712892,
             z: 7.1,
         },
         scale: 0.5,
@@ -372,6 +372,9 @@ const statues = [
         },
         scale: 1,
         rotate: 115
+    },
+    {
+        
     }
 ]
 
