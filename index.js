@@ -358,8 +358,8 @@ const statues = [
         statueName: "Xe kéo",
         path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/Untitled2.glb?alt=media&token=9580aa1d-d6c1-4795-b217-aac836425e23",
         point: {
-            x: 106.70694029000096,
-            y: 10.768295012767528,
+            x: 106.7069466019431,
+            y: 10.768297741712892,
             z: 7.1,
         },
         scale: 0.5,
@@ -375,6 +375,9 @@ const statues = [
         },
         scale: 1,
         rotate: 115
+    },
+    {
+        
     }
 ]
 
