@@ -48,7 +48,7 @@ const statues = [
     },
     {
         statueName: "tượng Bác Hồ ngồi",
-        path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/BacHo.glb?alt=media&token=1389877c-9b01-4fed-ba51-50e0f4db037e",
+        path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/BacHo_ngoi.gltf?alt=media&token=d4db794e-bc21-4c8e-b230-a6fe0b9cb4f2",
         point: {
             x: 106.70689572342282,
             y: 10.768303179718915, 
@@ -61,8 +61,8 @@ const statues = [
         statueName: "tượng kháng chiến",
         path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/tuong_khang_chien_k.gltf?alt=media&token=62f49e96-3365-44f6-b577-c1f64e25b033",
         point: {
-            x: 106.70688365980618,
-            y: 10.768303171261888,
+            x: 106.70688225658532,
+            y: 10.768306284015857,
             z: 13.41,
         },
         scale: 0.2,
@@ -116,8 +116,8 @@ const statues = [
         statueName: "Mẹ anh hùng và các con",
         path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/me_anh_hung_k.gltf?alt=media&token=35f50f85-b7fd-473c-ab2c-c785ad4fcc8d",
         point: {
-            x: 106.7068909623204,
-            y: 10.768295170183208,
+            x: 106.70689348811796,
+            y: 10.768289567226063,
             z: 7.1,
         },
         scale: 0.2,
