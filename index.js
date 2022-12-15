@@ -358,17 +358,17 @@ const statues = [
     scale: 0.5,
     rotate: 115,
   },
-  {
-    statueName: "Xe kéo",
-    path: `${BASE_URL}/model/Untitled2.glb`,
-    point: {
-      x: 106.7069466019431,
-      y: 10.768297741712892,
-      z: 7.1,
-    },
-    scale: 0.5,
-    rotate: 115,
-  },
+  // {
+  //   statueName: "Xe kéo",
+  //   path: `${BASE_URL}/model/Untitled2.glb`,
+  //   point: {
+  //     x: 106.7069466019431,
+  //     y: 10.768297741712892,
+  //     z: 7.1,
+  //   },
+  //   scale: 0.5,
+  //   rotate: 115,
+  // },
   {
     statueName: "Xe hơi",
     path: `${BASE_URL}/model/xe.glb`,
