@@ -173,7 +173,7 @@ const statues = [
   },
   {
     statueName: "Tranh phòng ba CD",
-    path: `${BASE_URL}/model/dragon-wharf.appspot.com/o/PhongThuBa_CD.glb`,
+    path: `${BASE_URL}/model/PhongThuBa_CD.glb`,
     point: {
       x: 106.70688604400692,
       y: 10.768260238382895,
@@ -184,7 +184,7 @@ const statues = [
   },
   {
     statueName: "Tranh phòng ba DA",
-    path: `${BASE_URL}/model/dragon-wharf.appspot.com/o/PhongThuBa_DA.glb`,
+    path: `${BASE_URL}/model/PhongThuBa_DA.glb`,
     point: {
       x: 106.70683673380753,
       y: 10.768284296359962,
