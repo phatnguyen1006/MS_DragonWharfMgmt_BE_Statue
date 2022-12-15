@@ -1,5 +1,6 @@
 {
   "name": "ms_dragon_wharf_statue",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
