@@ -492,10 +492,10 @@ const statues = [
   },
 ];
 
-app.get("/model/:file_path/:file_name", (req, res) => {
+app.get("/model/:file_name", (req, res) => {
     console.log("downloading")
-    const { file_path, file_name } = req.params
-    const file = `${__dirname}/public/Model/${file_path}/${file_name}`
+    const {  file_name } = req.params
+    const file = `${__dirname}/public/Model/${file_name}`
     res.download(file)
 })
 
