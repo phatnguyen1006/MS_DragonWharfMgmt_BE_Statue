@@ -166,7 +166,7 @@ const statues = [
   },
   {
     statueName: "Tranh phòng ba CD",
-    path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/PhongThuBa_CD.glb?alt=media&token=7d7f1485-d830-4834-b12e-35915d441bc8",
+    path: `${BASE_URL}/model/PhongThuBa_CD.glb`,
     point: {
       x: 106.70688604400692,
       y: 10.768260238382895,
@@ -177,7 +177,7 @@ const statues = [
   },
   {
     statueName: "Tranh phòng ba DA",
-    path: "https://firebasestorage.googleapis.com/v0/b/dragon-wharf.appspot.com/o/PhongThuBa_DA.glb?alt=media&token=d84a3540-8f23-4379-83f1-97d1573b0ff1",
+    path: `${BASE_URL}/model/PhongThuBa_DA.glb`,
     point: {
       x: 106.70683673380753,
       y: 10.768284296359962,
