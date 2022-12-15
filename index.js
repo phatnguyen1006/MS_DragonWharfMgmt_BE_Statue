@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 8003;
 app.use(express.json());
 app.use(cors());
 
-const BASE_URL = `${process.env.BASE_PROTOCOL}`+"://"+`${process.env.BASE_IP}:${process.env.BASE_PORT}/${process.env.BASE_NODE}`
+const BASE_URL = `${process.env.BASE_PROTOCOL}://${process.env.BASE_IP}:${process.env.BASE_PORT}/${process.env.BASE_NODE}`
 
 const statues = [
   {
@@ -493,10 +493,10 @@ const statues = [
 ];
 
 app.get("/model/:file_name", (req, res) => {
-    console.log("downloading")
-    const {  file_name } = req.params
-    const file = `${__dirname}/public/Model/${file_name}`
-    res.download(file)
+  const { file_name } = req.params
+  console.log("transfering file" + file_name)
+  const file = `${__dirname}/public/Model/${file_name}`
+  res.download(file)
 })
 
 app.get("/", (req, res) => {
