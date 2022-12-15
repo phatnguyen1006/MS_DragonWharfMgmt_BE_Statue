@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 8003;
 app.use(express.json());
 app.use(cors());
 
-const BASE_URL = `${process.env.BASE_PROTOCOL}://${process.env.BASE_IP}:${process.env.BASE_PORT}/${process.env.BASE_NODE}`
+const BASE_URL = `${process.env.BASE_PROTOCOL}`+"://"+`${process.env.BASE_IP}:${process.env.BASE_PORT}/${process.env.BASE_NODE}`
 
 const statues = [
   {
