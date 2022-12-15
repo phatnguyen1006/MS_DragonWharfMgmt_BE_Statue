@@ -175,8 +175,8 @@ const statues = [
     statueName: "Tranh phòng ba CD",
     path: `${BASE_URL}/model/PhongThuBa_CD.glb`,
     point: {
-      x: 106.70688604400692,
-      y: 10.768260238382895,
+      x: 106.70690567889204, 
+      y: 10.768283605180233,
       z: 16,
     },
     scale: 1,
@@ -307,8 +307,8 @@ const statues = [
     statueName: "Tranh phòng tư CD",
     path: `${BASE_URL}/model/PhongThuTu_CD.glb`,
     point: {
-      x: 106.70691670821031, 
-      y: 10.76816712020132,
+      x: 106.70691558563362, 
+      y: 10.768169610404495,
       z: 16,
     },
     scale: 1,
@@ -318,8 +318,8 @@ const statues = [
     statueName: "Tranh phòng tư DA",
     path: `${BASE_URL}/model/PhongThuTu_DA.glb`,
     point: {
-      x: 106.70687146469764,
-      y: 10.768199556983634,
+      x: 106.70687272708606, 
+      y: 10.768200102772706,
       z: 16,
     },
     scale: 1,
@@ -417,8 +417,8 @@ const statues = [
     statueName: "Việt Nam những Tuyên ngôn độc lập Left",
     path: `${BASE_URL}/model/VN_TN_Left.glb`,
     point: {
-      x: 106.70680616313788,
-      y: 10.768269963412031,
+      x: 106.7068074255263, 
+      y: 10.768270509201104,
       z: 9,
     },
     scale: 1,
@@ -439,8 +439,8 @@ const statues = [
     statueName: "Cuộc hành trình thời đại BC",
     path: `${BASE_URL}/model/HanhTrinhBC.glb`,
     point: {
-      x: 106.7068042700656,
-      y: 10.768265797460776,
+      x: 106.70680174528874, 
+      y: 10.76826470588263,
       z: 9,
     },
     scale: 1,
@@ -476,7 +476,7 @@ const statues = [
       y: 10.768223187207981,
       z: 9,
     },
-    scale: 1,
+    scale: 0.8,
     rotate: 24,
   },
   {
